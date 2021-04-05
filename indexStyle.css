@@ -2,6 +2,12 @@
     padding: 0 auto;
     margin: 0 auto;
 }
+.flag{
+    text-align: right;
+    margin-right: 8%;
+    position: relative;
+    top: -45px;
+}
 .background{
     position: relative;
     flex: 1;
@@ -10,5 +16,12 @@
     font-size: 18px;
     text-align: justify;
     margin-right: 25px;
-
+}
+a{
+    text-decoration: none;
+    color: rgb(99, 19, 117);
+}
+a:hover{
+    opacity: 0.6;
+    text-decoration: underline;
 }
