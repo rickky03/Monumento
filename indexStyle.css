@@ -1,0 +1,14 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.background{
+    position: relative;
+    flex: 1;
+}
+.descrip{
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 25px;
+
+}
